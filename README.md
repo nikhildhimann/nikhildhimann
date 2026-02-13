@@ -61,12 +61,7 @@ I believe in consistency, structured development, and writing production-ready c
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhildhimann&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=nikhildhimann&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhimann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
