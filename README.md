@@ -38,28 +38,35 @@ I believe in consistency, structured development, and writing production-ready c
 
 ## 📌 Featured Projects
 
-### 🔹 Library Management System (MERN Stack)
-- Role-based authentication (Admin/User)
-- Secure REST API architecture
-- Full CRUD functionality
-- React dashboard with clean UI
 
-### 🔹 Authentication Systems
-- JWT-based login/signup
-- Protected routes & middleware
-- Secure backend implementation
+### 🔹 Ibrahim Decor – Business Website  
+🌐 Live: https://ibrahim-decor.vercel.app  
+💻 GitHub: https://github.com/nikhildhimann/ibrahim-decor-website  
+- Responsive modern UI  
+- Clean structured frontend  
+- Production deployment on Vercel  
+
+---
+
+### 🔹 ZenMarket – MERN E-commerce App  
+🌐 Live: https://zenmarket-mern.vercel.app  
+💻 GitHub: https://github.com/nikhildhimann/ZenMarket-MERN  
+- Full-stack MERN application  
+- JWT authentication & REST APIs  
+- MongoDB integration  
+- Deployed on Vercel  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhildhimann&show_icons=true&theme=shadow_green&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildhimann&theme=shadow_green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhildhimann&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=nikhildhimann&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhimann&layout=compact&theme=shadow_green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhimann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
