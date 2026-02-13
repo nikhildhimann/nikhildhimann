@@ -36,12 +36,27 @@ I believe in consistency, structured development, and writing production-ready c
 
 ---
 
-## 📌 Featured Projects
+---
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00BFA6&center=true&vCenter=true&width=500&lines=Production+Ready+Applications;Full+Stack+MERN+Projects;Live+%26+Deployed+Web+Apps" />
+</p>
+
+---
 
 ### 🔹 Ibrahim Decor – Business Website  
-🌐 Live: https://ibrahim-decor.vercel.app  
-💻 GitHub: https://github.com/nikhildhimann/ibrahim-decor-website  
+
+<p align="center">
+  <a href="https://ibrahim-decor.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00BFA6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhildhimann/ibrahim-decor-website">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - Responsive modern UI  
 - Clean structured frontend  
 - Production deployment on Vercel  
@@ -49,14 +64,23 @@ I believe in consistency, structured development, and writing production-ready c
 ---
 
 ### 🔹 ZenMarket – MERN E-commerce App  
-🌐 Live: https://zenmarket-mern.vercel.app  
-💻 GitHub: https://github.com/nikhildhimann/ZenMarket-MERN  
+
+<p align="center">
+  <a href="https://zenmarket-mern.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00BFA6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhildhimann/ZenMarket-MERN">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 - Full-stack MERN application  
 - JWT authentication & REST APIs  
 - MongoDB integration  
 - Deployed on Vercel  
 
 ---
+
 
 ## 📊 GitHub Analytics
 
