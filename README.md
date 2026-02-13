@@ -1,77 +1,93 @@
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Nikhil Dhiman</h1>
-<h3 align="center">Full Stack MERN Developer | Building Scalable Web Applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFA6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+REST+APIs+%7C+Authentication;Continuous+Growth+%F0%9F%9A%80" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Full Stack MERN Developer currently working in the industry, focused on building scalable, maintainable, and production-ready web applications.
+💼 Full Stack MERN Developer with real-world experience building scalable web applications.  
+🧠 Focused on clean architecture, maintainable code, and backend security.  
+🌍 Long-term goal: Growing toward international software engineering opportunities.  
 
-I enjoy transforming ideas into real-world digital solutions using clean architecture, structured APIs, and modern frontend practices.
-
-🔹 Strong focus on clean code & system structure  
-🔹 Real-world experience with authentication & role-based systems  
-🔹 Long-term goal: International career growth  
-
----
-
-## 💼 Current Focus
-
-- Building production-level MERN applications  
-- Designing RESTful APIs using Node.js & Express  
-- Implementing secure authentication (JWT, role-based access)  
-- Improving UI/UX using React & Bootstrap  
-- Learning backend scalability & system design  
+I believe in consistency, structured development, and writing production-ready code.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-React.js • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Redux • React Router
+### 👨‍💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,redux,vite" />
+</p>
 
-### Backend
-Node.js • Express.js • REST APIs • JWT Authentication
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### Database
-MongoDB • Mongoose • MySQL (Basics)
-
-### Tools & Workflow
-Git • GitHub • Postman • VS Code • Vercel • Netlify
-
----
-
-## 📌 Featured Work
-
-🔹 **Library Management System (MERN Stack)**
-- Role-based authentication (Admin/User)
-- Secure API architecture
-- Full CRUD operations
-- Clean React dashboard UI
-
-🔹 **Authentication Systems**
-- JWT-based login/signup
-- Protected routes
-- Secure middleware implementation
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhildhimann&show_icons=true&theme=shadow_green" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildhimann&theme=shadow_green" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhimann&layout=compact&theme=shadow_green" />
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 📌 Featured Projects
 
-💼 LinkedIn: https://www.linkedin.com/in/nikhildhimaann  
-🐦 X (Twitter): https://x.com/nikhildhiman_0  
-📧 Email: nikhildhimaann@gmail.com  
+### 🔹 Library Management System (MERN Stack)
+- Role-based authentication (Admin/User)
+- Secure REST API architecture
+- Full CRUD functionality
+- React dashboard with clean UI
+
+### 🔹 Authentication Systems
+- JWT-based login/signup
+- Protected routes & middleware
+- Secure backend implementation
 
 ---
 
-⭐ I believe in consistent improvement, clean architecture, and long-term growth.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhildhimann&show_icons=true&theme=shadow_green&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildhimann&theme=shadow_green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhimann&layout=compact&theme=shadow_green&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildhimann&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhildhimaann">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/nikhildhiman_0">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:nikhildhimaann@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Consistency • Clean Code • Long-Term Growth
+</p>
